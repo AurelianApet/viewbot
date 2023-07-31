@@ -1,0 +1,16 @@
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\ViewBot.exe.config
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\ViewBot.exe
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\ViewBot.pdb
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\EngineIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\Newtonsoft.Json.dll
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\SocketIoClientDotNet.dll
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\WebSocket4Net.dll
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\bin\Release\Newtonsoft.Json.xml
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.Chat.resources
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.Properties.Resources.resources
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.Viewbot.resources
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.csproj.GenerateResource.cache
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.csproj.CoreCompileInputs.cache
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.csproj.CopyComplete
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.exe
+D:\WORK\KCG\C#\2021.02.19\ViewBot\ViewBot\obj\Release\ViewBot.pdb
